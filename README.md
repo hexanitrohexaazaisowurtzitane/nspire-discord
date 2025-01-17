@@ -4,8 +4,12 @@ It uses an ESP8266 to go online and I have both a USB-B mini cable to connect fr
 
 <sub>
 Wait! Before you hate...
+ 
 This is my 1st time developing a project that includes serial, esp ( c lang ), lua and a nspire
+
 As of now, the code is horrible on both sides. I plan to rewrite the code and clean it up when possible!
+
+This was made as a hobby project so don't expect much
 </sub>
 
 ## Welcome pannel && Main chat interface
