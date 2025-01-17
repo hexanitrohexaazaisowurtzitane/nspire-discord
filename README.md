@@ -14,6 +14,7 @@ It uses an ESP8266 to go online and I have both a USB-B mini cable to connect fr
    - If you need to update the wifi credentials, you can do so in the loading menu (press enter while light is still blinking)
    - however you must then reconnect the esp to the calculator and restart the program [ESC]
  - If the connection is successful, press enter to begin listening to serial data
+ - Serial data is streamed like so: `"<m:CHANNEL_ID>MESSAGE1_CONTENT||MESSAGE2_CONTENT||MESSAGE3_CONTENT</m>`
  - Note: sometimes the chat may take too long to load, it is best to unplug the esp as the cable or connection might have been disconnected
 ### Friends menu:
 <table>
