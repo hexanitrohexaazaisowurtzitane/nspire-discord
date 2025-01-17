@@ -67,3 +67,8 @@ If you found this somewhat interesting, consider leaving a star so i am kept 'mo
 The dock connector requires system version <= 3.1 or ndless to work.
 Unfortunately my calculator is set to v6 so I can't to much about this.
 For those interested, I used a lad cradle's connector with a 3d printed casing (send me a dm if you want the files)
+
+## Serial data codes:
+Chat message: `"<m:CHANNEL_ID>MESSAGE1_CONTENT||MESSAGE2_CONTENT||MESSAGE3_CONTENT</m>\n`
+Internet update: `"//UPDATE//ssid||password\n"`
+Channel update:  `"//CHANNEL//channel_id\n"`
