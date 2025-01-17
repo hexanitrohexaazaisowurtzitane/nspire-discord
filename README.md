@@ -11,8 +11,8 @@ It uses an ESP8266 to go online and I have both a USB-B mini cable to connect fr
  - Make sure that the user token in the ino project is correct
  - Start the program in the calculator
  - Connect ESP to port and wait for a successfull wifi connection (light stops blinking)
- - - If you need to update the wifi credentials, you can do so in the loading menu (press enter while light is still blinking)
- - - however you must then reconnect the esp to the calculator and restart the program [ESC]
+   - If you need to update the wifi credentials, you can do so in the loading menu (press enter while light is still blinking)
+   - however you must then reconnect the esp to the calculator and restart the program [ESC]
  - If the connection is successful, press enter to begin listening to serial data
  - Note: sometimes the chat may take too long to load, it is best to unplug the esp as the cable or connection might have been disconnected
 Friends menu:
