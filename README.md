@@ -44,7 +44,7 @@ friends = {
 </table>
 
 ## TODO
-- Rewrite calculator serial code ( it works like ahh )
+- Rewrite calculator port listener ( it works like ahh )
 - Clean up the whole code
 - Test dock connector serial ( with another calc)
 - ### if this project moves forward:
