@@ -70,5 +70,7 @@ For those interested, I used a lad cradle's connector with a 3d printed casing (
 
 ## Serial data codes:
 Chat message: `"<m:CHANNEL_ID>MESSAGE1_CONTENT||MESSAGE2_CONTENT||MESSAGE3_CONTENT</m>\n`
+
 Internet update: `"//UPDATE//ssid||password\n"`
+
 Channel update:  `"//CHANNEL//channel_id\n"`
