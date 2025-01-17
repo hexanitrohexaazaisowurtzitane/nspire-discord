@@ -6,5 +6,15 @@ It uses an ESP8266 to go online and I have both a USB-B mini cable to connect fr
 ![image](https://github.com/user-attachments/assets/5d0dd483-9f63-44d6-9939-474fe3f96068)
 <!--![image](https://github.com/user-attachments/assets/08c4077e-e058-4a96-b7fc-2f07e79d9d29)
 ![image](https://github.com/user-attachments/assets/74867b52-a147-450d-a36b-0a3ac36f82ca)-->
-
-
+ ## How to connect:
+ - Make sure that the friends list in discord.tns is updated
+ - Make sure that the user token in the ino project is correct
+ - Start the program in the calculator
+ - Connect ESP to port and wait for a successfull wifi connection (light stops blinking)
+ - - If you need to update the wifi credentials, you can do so in the loading menu (press enter while light is still blinking)
+ - - however you must then reconnect the esp to the calculator and restart the program [ESC]
+ - If the connection is successful, press enter to begin listening to serial data
+ - Note: sometimes the chat may take too long to load, it is best to unplug the esp as the cable or connection might have been disconnected
+Friends menu:
+![image](https://github.com/user-attachments/assets/b97cb06a-4889-4eff-8a65-883a849f9c02)
+Reads from friends list in tns file and will send update strings to update esp discord channel
