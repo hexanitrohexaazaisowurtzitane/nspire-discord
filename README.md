@@ -18,3 +18,15 @@ It uses an ESP8266 to go online and I have both a USB-B mini cable to connect fr
 ### Friends menu:
 ![image](https://github.com/user-attachments/assets/b97cb06a-4889-4eff-8a65-883a849f9c02)
 Reads from friends list in tns file and will send update strings to update esp discord channel
+Friends list must be like the following:
+```
+friends = {
+       -- use channel ids
+       "ChatGPT:chatgpt",   -- chatgpt id (TODO)
+       "FriendName1:channelId_1",
+       "FriendName2:channelId_2",
+       "FriendName3:channelId_3",
+       "FriendName4:channelId_4",
+       --(...)
+   }
+```
