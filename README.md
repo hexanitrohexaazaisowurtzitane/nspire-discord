@@ -51,4 +51,6 @@ friends = {
 ![image](https://github.com/user-attachments/assets/1575c28c-e012-400d-a56b-5194a44e650a)
 ![image](https://github.com/user-attachments/assets/0ade3b68-ba67-4274-b8ce-9a61cb99a590)
 
-
+The dock connector requires system version <= 3.1 or ndless to work.
+Unfortunately my calculator is set to v6 so I can't to much about this.
+For those interested, I used a lad cradle's connector with a 3d printed casing (send me a dm if you want the files)
