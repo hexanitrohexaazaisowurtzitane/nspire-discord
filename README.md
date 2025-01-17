@@ -1,11 +1,13 @@
 # nspire-discord
 A program I wrote both in inspired-lua and c for my project to implement discord in the Ti Nspire
 It uses an ESP8266 to go online and I have both a USB-B mini cable to connect from the top of the calc or a custom made dock connector adapter (only works with ndless, so I cant really use it) - picture below
-<small>
+
+<sub>
 Wait! Before you hate...
 This is my 1st time developing a project that includes serial, esp ( c lang ), lua and a nspire
 As of now, the code is horrible on both sides. I plan to rewrite the code and clean it up when possible!
-</small>
+</sub>
+
 ## Welcome pannel && Main chat interface
 ![image](https://github.com/user-attachments/assets/463c09a8-45ed-4f63-b4f6-a1090e505476)
 ![image](https://github.com/user-attachments/assets/5d0dd483-9f63-44d6-9939-474fe3f96068)
