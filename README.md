@@ -51,6 +51,7 @@ friends = {
   - add auto friends list updater
   - support for chatGPT or others
   - support for camera ( connected to esp )
+  - add latex math support
 
 <sub>
 If you found this somewhat interesting, consider leaving a star so i am kept 'motivated' ^.^
