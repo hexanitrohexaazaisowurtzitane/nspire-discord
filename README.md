@@ -38,6 +38,7 @@ friends = {
 }
 ```
 </table>
+
 ## Real life images (usb-b port and dock connector)
 ![image](https://github.com/user-attachments/assets/2c1b6f1c-8177-4b5a-829a-4c8db26e1e04)
 ![image](https://github.com/user-attachments/assets/1575c28c-e012-400d-a56b-5194a44e650a)
