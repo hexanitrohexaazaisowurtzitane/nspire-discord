@@ -15,6 +15,6 @@ It uses an ESP8266 to go online and I have both a USB-B mini cable to connect fr
    - however you must then reconnect the esp to the calculator and restart the program [ESC]
  - If the connection is successful, press enter to begin listening to serial data
  - Note: sometimes the chat may take too long to load, it is best to unplug the esp as the cable or connection might have been disconnected
-Friends menu:
+### Friends menu:
 ![image](https://github.com/user-attachments/assets/b97cb06a-4889-4eff-8a65-883a849f9c02)
 Reads from friends list in tns file and will send update strings to update esp discord channel
