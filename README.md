@@ -2,13 +2,7 @@
 A program I wrote both in inspired-lua and c for my project to implement discord in the Ti Nspire
 It uses an ESP8266 to go online and I have both a USB-B mini cable to connect from the top of the calc or a custom made dock connector adapter (only works with ndless, so I cant really use it) - picture below
 
-<sub>Wait! Before you hate...</sub>
-
-<sub>This is my 1st time developing a project that includes serial, esp ( c lang ), lua and a nspire</sub>
-
-<sub>As of now, the code is horrible on both sides. I plan to rewrite the code and clean it up when possible!</sub>
-
-<sub>This was made as a hobby project so don't expect much</sub>
+<sub>Wait! Before you hate...</sub><sub>This is my 1st time developing a project that includes serial, esp ( c lang ), lua and a nspire</sub><sub>As of now, the code is horrible on both sides. I plan to rewrite the code and clean it up when possible!</sub><sub>This was my hobby project so don't expect much</sub>
 
 
 ## Welcome pannel && Main chat interface
