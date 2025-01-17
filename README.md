@@ -42,5 +42,6 @@ friends = {
 ## Real life images (usb-b port and dock connector)
 ![image](https://github.com/user-attachments/assets/2c1b6f1c-8177-4b5a-829a-4c8db26e1e04)
 ![image](https://github.com/user-attachments/assets/1575c28c-e012-400d-a56b-5194a44e650a)
-![image](https://github.com/user-attachments/assets/69fbfeb9-46a0-490b-b7af-3636037d3e6d)
+![image](https://github.com/user-attachments/assets/0ade3b68-ba67-4274-b8ce-9a61cb99a590)
+
 
