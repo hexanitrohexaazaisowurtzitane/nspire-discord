@@ -1,6 +1,8 @@
 # nspire-discord
 ![image](https://github.com/user-attachments/assets/463c09a8-45ed-4f63-b4f6-a1090e505476)
+![image](https://github.com/user-attachments/assets/5d0dd483-9f63-44d6-9939-474fe3f96068)
 
-![image](https://github.com/user-attachments/assets/72f63650-ca01-4b87-bfca-5fda6c613ac6)
-![image](https://github.com/user-attachments/assets/a2fb4367-21f2-45da-bc01-8b903fd286e5)
-![image](https://github.com/user-attachments/assets/086a1134-aa20-4f82-82b1-9c02352b1184)
+![image](https://github.com/user-attachments/assets/08c4077e-e058-4a96-b7fc-2f07e79d9d29)
+
+![image](https://github.com/user-attachments/assets/74867b52-a147-450d-a36b-0a3ac36f82ca)
+
