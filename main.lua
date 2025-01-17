@@ -29,16 +29,7 @@ function reset()
        -- use channel ids
        -- just add them manually bcus im lazy
        "ChatGPT:chatgpt", 
-       "Eclipt:924427863724265472",
-       "Salamaleko:1263176048296853526", 
-       "Hazmat:1263951707533213728", 
-       "Titiless:1263180907242852455", 
-       "CiberCigarro:1263188031679103109",
-       "Fili1719:1263560658864312401",
-       "AfonsoC:1311035112074248313",
-       "Danypedro:1263189472875642902",
-       "Skywolf:1273753901023105164",
-       "Kiyoshi:1263229189251665941",
+       "FriendName:ChannelID",
    }
    in_send = nil
    in_menu = false
